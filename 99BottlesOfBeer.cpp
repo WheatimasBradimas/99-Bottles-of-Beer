@@ -1,5 +1,6 @@
 /* 99 Bottles of Beer on the Wall */
 /* Problem given to me on Discord for a user named @zekka */
+/* Written in C */
 /* February 25, 2019 */
 
 #include <stdio.h>
